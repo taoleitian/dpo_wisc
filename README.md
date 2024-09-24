@@ -1,7 +1,7 @@
 # dpo_wisc
-set up the LMFlow and copy this file to your path.
+set up the LMFlow https://github.com/OptimalScale/LMFlow and TRL https://github.com/huggingface/trl
 
 ### command
-cd yeh_dpo
+cd dpo
 
 bash dpo.sh
